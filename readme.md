@@ -1,1 +1,1 @@
-This will just be a simple clock application that tells the time when completed
+A simple clock made using basic HTML, CSS and JavaScript
